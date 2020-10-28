@@ -1,6 +1,10 @@
 # Ventspils ITC 2020 - Olimps
 
-Global warming simulation
+Global warming water level simulation
+
+## Description
+
+This simulation is primarely based on data anylisis of NASA's provided data about climate change, global temperature. It models water level changes over the next centuries depending on provided ice amount, following current trends in the world.
 
 ## Running
 
