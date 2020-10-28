@@ -14,7 +14,7 @@ Download the repository and run the `.exe` in the `Build` directory
 
 ### Simulation
 
-![Simulation](./Images/simulation.jpg)
+![Simulation](./Images/simulation.png)
 
 ## Information sources
 
