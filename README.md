@@ -8,9 +8,9 @@ This simulation is primarely based on data anylisis of NASA's provided data abou
 
 ## Controlls
 
-⋅ Movement - A,S,W,D
-⋅ Camera - Right click and drag
-⋅ Speedup - Shift + W
++ Movement - A,S,W,D
++ Camera - Right click and drag
++ Speedup - Shift + W
 
 ## Running
 
