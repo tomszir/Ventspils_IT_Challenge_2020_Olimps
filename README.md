@@ -6,6 +6,12 @@ Global warming water level simulation
 
 This simulation is primarely based on data anylisis of NASA's provided data about climate change, global temperature. It models water level changes over the next centuries depending on provided ice amount, following current trends in the world.
 
+## Controlls
+
+Movement - A,S,W,D
+Camera - Right click and drag
+Speedup - Shift + W
+
 ## Running
 
 Download the repository and run the `.exe` in the `Build` directory
